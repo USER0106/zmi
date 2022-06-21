@@ -5,46 +5,46 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['201507384088'] 
+global.mods = ['201507384088'] 
+global.prems = ['201507384088'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.numberowner = '6285828764046'
-global.instagram = 'https://instagram.com/zalfapontianak'
-global.github = 'https://github.com/Botynyakamu'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.nameowner = 'ī.am/𝘨𝘢𝘢𝘳𝘢⁵̄⁴͍⁵ ̵〆꧅'
+global.numberowner = '201507384088'
+global.instagram = 'https://instagram.com/gaara_xploite'
+global.github = 'https://github.com/GaaraDel'
+global.dana = '081326024103'
+global.pulsa = '081326024103'
+global.gopay = '66935253643'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak'
+global.namebot = '❋ཻུ۪۪⸙Nadinbotz-MD⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm'
+global.web = 'https://instagram.com/gaara_xploite' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/gaara_xploite'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti 
-global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
+global.fotonya1 = 'https://telegra.ph/file/288f7320222afe9d4bca2.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/f2d073b20bb1eefc93ccc.jpg' //ini juga ganti 
+global.lolkey = 'Memek11' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '© ❋ཻུ۪۪⸙Nadinbotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by ۣۣۜī.am/𝘨𝘢𝘢𝘳𝘢_𝙊𝙛𝙛cོ1꧅'
+global.wm3 = 'ᯤ𝘨𝘢𝘢𝘳𝘢⁵̄⁴͍⁵ ̵〆𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/f2d073b20bb1eefc93ccc.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.packname = 'nadinbotz'
+global.author = '@gaaraxploite'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -83,7 +83,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://zekais-api.herokuapp.com': 'rZ98Xq4Q',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 
