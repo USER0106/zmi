@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
+  footerText: 'Powered by ᯤ ī.am/𝘨𝘢𝘢𝘳𝘢⁵̄⁴͍⁵ ̵〆',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -55,8 +55,9 @@ const defaultMenu = {
 ⫹⫺ Elyas
 ⫹⫺ Hyzer
 ⫹⫺ KrizynOfc
-⫹⫺ RielgansOfc
+⫹⫺ Gaara Setyawan
 ⫹⫺ Zifabotz_offc1
+⫹⫺ Nadin Stefani
 ╰─────────────⬣
 `,
 }
@@ -445,7 +446,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 },{
                   "title": `💳⟩» SEWA BOT`,
                   "description": "Sewa kak, awokawok",
-                  "rowId": `.sewazifa`
+                  "rowId": `.sewanadin`
                 },{
                   "title": "🌈⟩» INFO BOT",
                   "description": "Menampilkan Menu Info",
@@ -547,7 +548,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                {
              quickReplyButton: {
         displayText: '🪀SEWABOT🪀',
-               id: '.sewazifa',
+               id: '.sewanadin',
              }
 
            },

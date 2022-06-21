@@ -36,7 +36,7 @@ wa.me/${numberowner} (Owner)
 *Follow Instagram ku juga kak😼*`
   conn.send3ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'Owner', '.owner', 'Menu', '.menu', m) 
 }
-handler.help = ['sewazifa']
+handler.help = ['sewanadin']
 handler.tags = ['info']
 handler.command = /^(zifasewa|sewazifa)$/i
 

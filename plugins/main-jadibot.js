@@ -10,8 +10,8 @@ let anu = `Hallo mypren 👋
 ⟩» *Kalau kakak mau jadi bot silahkan jasa run aja kak*
           
 ━━━〔 ıll *HARGA* llı 〕━━㉿
-⬡ *1 BULAN* 15.000
-⬡ *2 BULAN:* 25.000
+⬡ *1 BULAN* 10.000
+⬡ *2 BULAN:* 20.000
 ⬡ *PERMANEN:* 30.000
 📮 *batas scan 5 kali !*
 ┗━━━━━━━━━━━━━━━━━━㉿
@@ -32,7 +32,7 @@ Contact person jasa run:
 wa.me/${numberowner} (Owner)
 
 *Follow Instagram ku juga kak😼*`
-  conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'SewaBot', '.sewazifa', m) 
+  conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'SewaBot', '.sewanadin', m) 
 }
 handler.help = ['jadibot']
 handler.tags = ['info']

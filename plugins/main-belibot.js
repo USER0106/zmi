@@ -10,8 +10,8 @@ const ftroli = {
     status: 1,
     surface : 1,
     message: 'LiST PRICE JOIN GROUP', 
-    orderTitle: `zifabotz`,
-    thumbnail: 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 
+    orderTitle: `nadinbotz`,
+    thumbnail: 'https://telegra.ph/file/f2d073b20bb1eefc93ccc.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
