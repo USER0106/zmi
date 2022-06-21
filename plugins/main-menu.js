@@ -572,16 +572,16 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
     throw e
   }
 }
-handler.help = ['Krizyn']
+handler.help = ['gaara']
 handler.tags = ['main']
 handler.command = /^(alive|panel|krizyn|zifa|menu|help|\?)$/i
-handler.register = true
+handler.register = false
 handler.owner = false
 handler.mods = false
 handler.premium = false
 handler.group = false
 handler.private = false
-handler.register = true
+handler.register = false
 handler.admin = false
 handler.botAdmin = false
 
