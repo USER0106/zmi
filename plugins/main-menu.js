@@ -306,8 +306,8 @@ let menuu = `┏━━━〔 ıll *INFO BOT* llı 〕━━㉿
 ⬡ *OWNER:* ${owner}
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll *THANKS TO* llı 〕━㉿
-⬡ team creator-creator
-⬡ team yang sudah berdonasi
+⬡ Findi Nurfita
+⬡ Nadin Stefani
 ┗━━━━━━━━━━㉿
 » *Date :* ${date}
 » *Waktu :* ${wib}
