@@ -1,25 +1,25 @@
 // INI SC MASIH ADA BUG YA FIX IN AJA
 // BASE ILMANHDYT
 // SC ORI HYZER
-// CREATOR KRIZYN OFC
+// CREATOR AMIRR OFC
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['201507384088'] 
-global.mods = ['201507384088'] 
-global.prems = ['201507384088'] 
+global.owner = ['6282154156241'] 
+global.mods = ['6282154156241'] 
+global.prems = ['6282154156241'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ī.am/𝘨𝘢𝘢𝘳𝘢⁵̄⁴͍⁵ ̵〆꧅'
-global.numberowner = '201507384088'
+global.nameowner = 'ī.am/amirr⁵̄⁴͍⁵ ̵〆꧅'
+global.numberowner = '6282154156241'
 global.instagram = 'https://instagram.com/gaara_xploite'
 global.github = 'https://github.com/GaaraDel'
-global.dana = '081326024103'
-global.pulsa = '081326024103'
-global.gopay = '66935253643'
+global.dana = '082154156241'
+global.pulsa = '082154156241'
+global.gopay = '082154156241'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Nadinbotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = '❋ཻུ۪۪⸙Rukabotz-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm'
 global.web = 'https://instagram.com/gaara_xploite' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/gaara_xploite'
@@ -30,10 +30,10 @@ global.fotonya1 = 'https://telegra.ph/file/288f7320222afe9d4bca2.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/f2d073b20bb1eefc93ccc.jpg' //ini juga ganti 
 global.lolkey = 'Memek11' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙Nadinbotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '© ❋ཻུ۪۪⸙Rukabotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by ۣۣۜī.am/𝘨𝘢𝘢𝘳𝘢_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ𝘨𝘢𝘢𝘳𝘢⁵̄⁴͍⁵ ̵〆𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by ۣۣۜī.am/amirr_𝙊𝙛𝙛cོ1꧅'
+global.wm3 = 'ᯤamirr⁵̄⁴͍⁵ ̵〆𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/f2d073b20bb1eefc93ccc.jpg'
@@ -43,8 +43,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'nadinbotz'
-global.author = '@gaaraxploite'
+global.packname = 'Rukabotz'
+global.author = '@amirrxploite'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
